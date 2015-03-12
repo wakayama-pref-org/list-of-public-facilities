@@ -1,4 +1,4 @@
-### list-of-public-facilities
+# list-of-public-facilities
 福祉のまちづくりマップに掲載された公共施設一覧です。
 
 ###（GitHubアカウント「wakayama-pref-org」について）
