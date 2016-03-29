@@ -7,7 +7,7 @@
 ###（ライセンス）
 　掲載している各種データについては、
 [クリエイティブ・コモンズ・ライセンス表示4.0国際](https://creativecommons.org/licenses/by/4.0/deed.ja)
-!クリエイティブ・コモンズ・ライセンス 表示 2.1(http://creativecommons.org/licenses/by/2.1/jp/)
+![クリエイティブ・コモンズ・ライセンス 表示 2.1]http://creativecommons.org/licenses/by/2.1/jp/
 ![クリエイティブ・コモンズ 表示 2.1 日本ライセンス ](http://i.creativecommons.org/l/by/2.1/jp/88x31.png) のもとでライセンスされています。
 
 ###（免責）
